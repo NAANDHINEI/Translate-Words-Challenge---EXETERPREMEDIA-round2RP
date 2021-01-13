@@ -10,6 +10,8 @@ temp = file.read()
 for i in word:
     i = i.strip()
     k=re.compile(i)
+    # to replace all words irrespective of case comment above line(12 th line) and uncomment below line(14 th line)
+    # k=re.compile(i, re.IGNORECASE)
     if re.search(k,temp):
         temp= re.sub(k,engfr[i.strip()],temp)
 result.write(temp)
