@@ -1,0 +1,147 @@
+,Title,Description,Acceptance Criteria
+Feature,Landing Page,"A default Page for users when they Browse for the website , which should have latest Banner offerings features, seasonal discounts icons to redirect to specified categories option to Login/New Registered Users ,on teh top and along with Thumb nails for Delivery options ,Quickslinks,Needhlep ,News Letter and Other Programs that Roman runs","As a user when I search for the site and login to the website then I should be presented with a Landing home page
+ with Banner having categories and options for Login and User Account Information Offers /Promotional for the season Featured Products Sesonal listing Option search for a product or category
+ Various sections displayed in the landing home page are
+ 1.Offers /promotions - As an End user, I should have a segement on the landing page to showcase the deals/ offers/ promotions going on with various brands and products and when I Click on them I should be redirected to sepcific offers
+ 2.Featured Products - As an End user, I should have a segement on the landing page to showcase the featured brands and products and when I Click on them I should be redirected to featured Products
+ 3.Seasonal Listing - As an End user, I should have a segement on the landing page to showcase the seasonal collection (ex - Winter collection) and when I Click on them I should be redirected to Seasonal listing offers
+ 4.Shop by Brands/Size category - As an End user, I should have a segement on the landing page to showcase various popular brands and allow users to shop by the brands and choose the size category with Page nation and when I Click on them I should be redirected to sepcificbarnd /size
+ 5.Subscribe to newsletter - As an End user, I should have a Menu 'SUbscribe to newsletter' at the bottom of the landing page for users to subscribe to the newsletter and when I Click on them I should be redirected to Subscribe newsletter details
+ 6.Quick links - As an End user, I should have a Menu 'Quick links' on the landing page at the bottom of the landing page for users to view quick links that will lead to various quick links for better user shopping experience with a redirectable links for each section
+ 7.Delivery advise - As an End user, I should have a Menu 'Contact us' for users t contact on any delivery advise and and when I Click on them I should be redirected to delivery advise page
+ 8.Curated for you / Personalised products - As an End user, I should have a segement 'Curated for you' on the landing page to showcase the personalised products for the users and when I Click on them I should be redirected to the page
+ 9.Continue Browsing - As an End user, I should have a segement on the landing page 'Continue browsing' to showcase the products the users had browsed earlier and continue their browsing
+ Browse Products As End user When I click on categories selectings under Header I should be able to redirected to specific Products category which will list all the products of category when teh user clicks on the Category from the Header section or Categories on the Landing Page"
+Feature,View Product,View Product should have the View Product where Product features are listed and gives the user a detailed view of the Product with option to save to Wishlist Zoom in add to Bag etc,"SC001 As a User When I click on the Product I should be redirected to View Prodiuct Page with Product desc Price and Product details listed like - fabric , sytle,wash care etc with option to zoom in and zoom out and View the Product
+ SC002a: as User when in View Product Page , I should be present with option to Select the size from the avalaible sizes
+ SC002b: as User when in View Product Page , When a Size is out of stock I be presented with an option to notify me when the size is back in stock SC002c: as User when in View Product Page , When a Size is out of stock and I click on notify me then the system should present me with an option enter email id of my choice to keep me notified
+ SC003 :Delivery & Returns Hyperlink When User is the View Product Page user should have the Delivery & Returns link listed under the Product details and when user click on it a pop up window detailing the Delivery options listed and ahyperlink to the Return policy is valaible to the user Sc004 Size Guidehyperlink :When User is the View Product Page user should have the Size guide link listed under the Product details and when user click on it a pop up window detailing Size should nbe rendered to help the user make choice with sizes and should detail both UK and iNternational size guidances .
+ SC004a: Add to Bag As a User when in View Product deatils Screen I should have the option to Add Item to Bag
+ SC004b: Add to Bag without size selection As a User when in View Product deatils Screen when I Click on Add to Bag without sleecting Size I should be promted to select select size before Adding to Bag
+ SC004c: As a User when in View Product Page when I select the avalaible size and click on Add to Bag Item should ebv added to my Bag
+ SC005: Why I Choose As a User when in View Product deatilsScreenand scroll below the view product , I should be able to View Other Users Review why they liked the product
+ SC005: Complete the look section As a User when in View Product deatilsScreenand scroll below the view product , I should be able to see Complete Look Section which gives additional options of categories which will match my outfit (where users might continue to buy them along with their inital choice)
+ SC006: You May LIke section As a User when in View Product deatilsScreenand scroll below the view product , I should be able to see You MAY like section which displays smilar style colour and design items for user as additional choice
+ SC007: Rcently Viewed As a User when in View Product deatils Screen and scroll below it should display all Recently viewed /browsed Items ( last 15 items )
+ SC007:User reviews Section As a User when in View Product deatils Screen and scroll below it should shoud have A user reviews Sections where I can read teh Reviews
+ SC008:Q&A As a User when in View Product deatils Screen and scroll below and click on Q&A , I should be ab;e see any frequently asked Questions listed
+ SC009:Ratings As a User when in View Product deatils Screen and scroll below it should shoud be able to see the RAtings given by the users with a count and agverage displayed as stars
+ SC0010:Reviewe Product As a User when in View Product deatils Screen and scroll below it should shoud have the option add my review and share it.
+ 11As a User when in View Product deatils Screen I should have the Capability to Add to Wishlist"
+Feature,Secure Checkout,As a User Is hould have the option Complete my Purchase via secure checkout,"As a End User as part of my Purchase Secure checkout should offer me the option to
+ Update or use a Gift card
+ Manage /Update Card of my choice for purchase
+ Use Paypal or karla use for purchase
+ Option to change Delivery address
+ Pay Button which will redirect to Payment gateway for complete my transcation"
+Feature,Login,"As a end user, I want to be able to easily login to my account on the Roman website and access personalised recommendations, view my order history and proceed through checkout without hassle.","1. As an End user, I should see a clean login page with input fields for my email id/username and password.
+ 2. As an end user I should be able to login with valid credentials
+ 3. As an end user I should be able to have 'remember me' option if I want to stay logged in certain devices
+ 4. As an end user I should be able to recover my password successfully if I have forgotten
+ 5. As an end user after successful login I should be redirected to the personlised landing page
+ 6. As an end user whether I am using a computer, tablet or phone I wan the login page to be responsive and easy to use"
+Feature,New User Registration,"As a end user, I want to be able to register / sign up as a new user by setting up userid and password credentials so that I can enjoy the shopping expereience with ease and benefits","As an End user, I should have the ability to register / sign up as a new user by setting up the below details
+ User Details - As a User When I click on the 'Sign up' button, I should be prompted with user id field for the user to end the email id or the mobile number as user id
+ AND the user should be allowed to set the password
+ AND agree to the Terms and conditions & Privacy policy on which the user account should be created created
+ Address - As a user I should have the ability to add the shipping address with Line 1, Line 2, Area, Post code details so that the purchased products are delivered to the users address"
+PBI,Payment gateways & Methods,"As a end user, I want to be able to add the payment details while I set up the account so that I can easily checkout the products and purchase it with the payment options set up","As an End user, I should have the ability toset up the payment methods as a new user by setting up the below options
+ 1.Paypal - As a user I should be able to add the Paypal details by clicking 'Add
+ 2.Card payment - As a user I should be able to add the card details by clicking 'Add New Card' button
+ 3.UPI - As a user I should be able to add a New UPI ID by clicking the 'Add New UPI ID' button
+ 4.As a user I should be able to More Payment options can be added as below
+ Wallets
+ Netbanking
+ Pay on Delivery
+ As a user I should be able to set the preferred payment method"
+Feature,Gift card,"As an End user, I should have the ability to redeem gift cards I have and also the ability to check the balance","As an End user, I should have the ability to redeem gift cards I have and also the ability to check the balance
+ 1. Reedem Gift card - As a end user I should be able to click on 'Redeem Gifts' button to redeem the gift cards I have
+ 2. Balance - As a end user I should be able to check the balance I have on clicking 'My Balance' button"
+Feature,Order Confirmation & tracking,"As a End user, I should have the ability to receive the order confirmation on a successful purchase and also track my order so that I can confirm my order is submitted and track where the order sits with.","As an End user, I should have the ability to receive the order confirmation through email notification or mobile notification on a successful purchase
+ 1.Confirmation message - As a user I should be able to receive a confirmation message on a successful payment made and the purchase completed
+ 2.Order confirmation email notification - As a user I should be able to receive a email confirmation message on a successful payment made and the purchase completed
+ 3.Order confirmation Mobile notification - As a user I should be able to receive a mobile SMS confirmation message on a successful payment made and the purchase completed
+ 4.Delivery update email notification - As a user I should be able to receive a email notification on the delivery updates
+ 5.Delivery update Mobile notification - As a user I should be able to receive a mobile SMS notification on the delivery updates
+ 6.Post dellivery email notification - As a user I should be able to receive a email notification to confirm the product delivery
+ 7.Post dellivery Mobile notification - As a user I should be able to receive a mobile SMS notification to confirm the product delivery"
+Feature,Order History,"As an End user, I should have the ability to view my order history of all the products I have ordered from the beginning till date so that I can view the products purchased so far at anytime","As an End user, I should have menu option 'Order History' to view all the products I have ordered till date
+ As an End user, I should haveOrder history details - As a end user I should have the ability to view my order history, to view all the products I have ordered from the beginning till date so that I can view the products purchased so far at given point of time
+ Cancel Order - As a end user I should have the ability to Cancel my order placed by clicking 'Cancel Order' button
+ Update order based on status - As a end user I should have the ability to Update my order placed by clicking 'Update Order' button based on the status
+ Cancel order on screen message - As a end user I should be able to see a on screen message confirmation on the order cancellation.
+ Cancel order email notification - As a end user I should be able to receive a email notificartionconfirmaing on the order cancellation
+ Cancel order Mobile notification - As a end user I should be able to receive a mobile SMS notificartionconfirmaing on the order cancellation"
+Feature,Returns and Exchange,"As a end user, I want to be able to initiate a return/exchange for recently purchased eligible items so that I can easily and conveniently return/exchange products that don't meet my expectations and be able to track progress","As an end user I should
+ 1.As an end user I should be able to initiate a return or exchange within a specified time frame
+ 2. As an end user I should be able to access the return or exchange process easily from user account or order history
+ 3.As an end user the system should show if the product is eligible for return/exchange
+ 4.As an end user I should be given a clear form to specify reasons for return/exchange
+ 5. As an end user I should to recieve an immediate confirmation on submitting return/exchange request
+ 6. As an end user I should be able to print a pre-paid return shipping label if required
+ 6. As an end user I should be able to choose the way amount is refunded - either to my bank or wallet
+ 7. As an end user I should be able to track status of my return/exchange"
+Feature,Wishlist,"As a Logged in User Whilist will help user to save products they like so that they can have quick access to Purchase
+ with an to option Manage Wishlist and sort and filter items from wishlist","As a Logged in user I should have the option to
+ As a Logged in user I should have the option to Wishlistaproduct or a Add Product to wishlist from Category Browsing Page (while browising ) without having to go into the View Product)
+ As a Logged in user I should have the option to Add Product to Whislist from within the View Product page
+ As a Logged in user I should have the Wishlist Icon which will help me to Manage my wishlist items
+ As a Logged in user I should have the option to Detele an item from Wishlist
+ As a Logged in user I should have the option to Move to Bag from Wishilit
+ As a Logged in user I should have the option to Set smart filters based on categorries within Wishlist
+ As a Logged in user all Outof stock Products should be at the bottom of my wishlist and greyed out with option to only remove/delete and notify me"
+Feature,Quick links,"End user should have easy access the following features using quick links
+ like Sign IN
+ Help
+ Returns
+ Delivery Info","As and End user I should have the Option to access SigIn directly using Quicklinks section
+ As and End user I should have the Option to access Acess Help using Quicklinks
+ As and End user I should have the Option to access Acess Returns information using Quicklinks
+ As and End user I should have the Option to access Acess Delivery Info using Quicklinks"
+Feature,Shopping Bag,As a end user I should hae the option to view and edit my shopping bag with Options to Add Vouchers and Complete my purchase via checkout,"As and End user I should have the Option to Edit Products in my Shopping bag
+ As and End user I should have the Option to Delete Products from my shopping bag
+ As and End user I should have the Option to Add a discount voucher
+ As and End user I should have the Option to Remove a Discount Voucher
+ As and End user I should have the Option to Check out as Guest
+ As and End user I should have the Option to Singin in for secure and fast checkout
+ As and End user I should have the Option to Paypay enabled Checkout
+ As and End user I should have the Option to Continue Shopping
+ As and End user I should have the Option to Select my delivery Country and Delivery Chargers applicable"
+Feature,Need Help,"This feature should guide the user wiuth detailed HElp section of the following topics about Romaan's website and Process
+ Contact Us
+ Your Account
+ Delivery and Returns
+ Create a Return
+ Size Guide
+ Product Care Guide
+ Fraudulent Websites","As a End user I should have a short cut links to access Contacts US under the Help section which will help me redirect to get Contact us detailed input page from Need Help
+ As a End user I should have a short cut links to access My Account section using the link Your Account from Need Help
+ As a End user I should have a short cut links to access Delivery & Returns from Need Help
+ As a End user I should have a short cut links to access to Create Return feature from Need Help
+ As a End user I should have a short cut links to access Size Guide from Need Help
+ As a End user I should have a short cut links to access Product Care from Need Help
+ As a End user I should have a short cut links to access to guide me on Fradulent websites from Need Help"
+Feature,More From Roman,As and end user I want to explore additinal content on the website related to my interests.,"1. As an end user I want to have see an opton 'More from Roman' displayed on relevant pages.
+ 2. As an end user when I click on 'More form Roman' then it should generate a dynamic list of recomended products based on my preferences, interests(browsing history)
+ 3. As an user I should be easily able to navigate thorugh the suggested content and the feature shuld be responsive."
+Feature,Sign up Subscribe /follow,"As an end user I want to be able to engage more with the website by being able to sign up, subscribe for updates and follow interested products.","1. As an end user I should be able to find the registration form for sign up with fields for my name,email address and password.
+ 2. As and end user I should recieve an confirmation email to verify my registration.
+ 3. As and end user I should be provided a subscription form allowing me to choose preferences for newsletters or product updates
+ 4. As and end user I should be given a 'follow' button on products and brands so thatI can follow the ones I am interested in."
+Feature,Write a Review,As an end user I want to share my experience and opinions by writing reviews for products I have purchased so as to help other shoppers make informed decisions and provide valuable feedback to the Roman website,"As an end user I should be able to
+ 1.As an end user I should be able to Access the review section from the product page and review page is easily available.
+ 2. As an end user I should be able tosee a user-friendly form and has option to rate with numbers/stars
+ 3. As an end user I should be able towrite a complete review and sufficient text space should be provided
+ 4. As an end user I should be able tochoose to write the review anonymously or by displaying my name
+ 5. As an end user I should be able toto see how my review appears to other users
+ 6. As an end user I should be able toable to edit or delete my reviews after submitting"
+Feature,My account,"As an logged in User My account should have the options to manage my details , Order history, payemnts address and other Personal realateable","As a Logged in user , I should have the
+ Icon on Landng page which should redirect me to the My account
+ As a Logged in user , I should have the OPtion to Edit My Personal Information
+ As a Logged in user , I should have the Manage My Orders
+ As a Logged in user , I should have the Manage My Adddress
+ As a Logged in user , I should have the Manage my Cards
+ As a Logged in user , I should have the Manage my Password
+ As a Logged in user , I should have the Able to manage New Letters subscriptions
+ As a Logged in user , I should have the Manage My Wishlist
+ As a Logged in user , I should have the Logout"
